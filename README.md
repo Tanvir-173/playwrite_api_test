@@ -20,3 +20,8 @@
 2. Install dependencies:
    ```bash
    npm install
+
+## commnads to test
+- npx playwright test
+- npx playwright show-report
+
